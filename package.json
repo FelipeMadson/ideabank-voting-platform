@@ -16,7 +16,7 @@
     "governance",
     "prioritization"
   ],
-  "author": "Felipe Madson",
+  "author": "Felipe Madison",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "22.10.2",
