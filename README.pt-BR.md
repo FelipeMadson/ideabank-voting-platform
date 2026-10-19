@@ -11,4 +11,4 @@ Motor de votação criptograficamente verificável que combina ordenação prefe
 
 ## Licença
 
-MIT © [Felipe Madson](https://github.com/FelipeMadson)
+MIT © [Felipe Madison](https://github.com/FelipeMadson)
