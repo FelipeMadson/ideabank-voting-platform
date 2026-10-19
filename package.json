@@ -1,0 +1,25 @@
+{
+  "name": "ideabank-voting-platform",
+  "version": "1.0.0",
+  "description": "Cryptographically verifiable, Borda-count and Quadratic voting engine for open-source feature prioritization",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --experimental-strip-types --test tests/voting.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "voting",
+    "quadratic-voting",
+    "borda-count",
+    "cryptographic-receipts",
+    "governance",
+    "prioritization"
+  ],
+  "author": "Felipe Madson",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "typescript": "5.7.2"
+  }
+}
